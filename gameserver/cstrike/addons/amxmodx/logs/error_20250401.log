@@ -1,0 +1,6 @@
+L 04/01/2025 - 23:46:19: Start of error session.
+L 04/01/2025 - 23:46:19: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250401.log")
+L 04/01/2025 - 23:46:19: Precaching not allowed
+L 04/01/2025 - 23:46:19: [AMXX] Run time error 10 (plugin "zp50_rewards_frags_hp.amxx") (native "precache_model") - debug not enabled!
+L 04/01/2025 - 23:46:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/01/2025 - 23:46:19: [AMXX] Run time error -1 (plugin "zp50_rewards_frags_hp.amxx") - debug not enabled!

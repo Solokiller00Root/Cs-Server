@@ -1,0 +1,120 @@
+L 03/24/2025 - 00:01:30: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:01:31: [admin.amxx] Login: "bernand33<13><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:03:36: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:03:37: [admin.amxx] Login: "bernand33<13><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:04:13: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:04:15: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:05:00: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:05:01: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:05:27: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:05:27: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:06:59: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:06:59: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:07:18: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_human_unlimited_ammo") (value "2")
+L 03/24/2025 - 00:07:36: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_human_unlimited_ammo") (value "0")
+L 03/24/2025 - 00:07:54: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:07:54: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:10:12: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:10:12: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:10:39: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_human_unlimited_ammo") (value "0")
+L 03/24/2025 - 00:11:43: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:11:43: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:13:06: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:13:06: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:13:51: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:13:51: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:14:08: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_human_unlimited_ammo") (value "0")
+L 03/24/2025 - 00:14:32: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_human_unlimited_ammo") (value "2")
+L 03/24/2025 - 00:14:34: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_human_unlimited_ammo") (value "1")
+L 03/24/2025 - 00:15:29: -------- Mapchange to de_dust --------
+L 03/24/2025 - 00:15:29: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 00:23:31: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_knockback_distance") (value "1000")
+L 03/24/2025 - 00:23:50: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_knockback_distance") (value "1500")
+L 03/24/2025 - 00:23:56: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_knockback_distance") (value "6000")
+L 03/24/2025 - 00:24:06: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_knockback_ducking") (value "2999")
+L 03/24/2025 - 00:32:53: [plmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" slay "[P0D]Ping of Death (96)<47><BOT><>"
+L 03/24/2025 - 22:12:34: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:13:08: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:13:22: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:13:29: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:14:44: [pluginmenu.amxx] Cmd: "bernand33<7><STEAM_0:1:600388690><>" set cvar (name "zp_knockback_distance") (value "0.75")
+L 03/24/2025 - 22:17:43: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:17:44: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:19:41: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:19:41: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:26:26: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:26:27: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:26:53: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:26:54: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:30:07: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:30:07: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:35:34: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:35:35: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:36:30: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:36:30: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:49:05: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:49:09: [admin.amxx] Login: "bernand33<49><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:49:55: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:49:56: [admin.amxx] Login: "bernand33<49><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:51:30: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:51:46: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:51:48: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:53:05: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:53:08: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:54:05: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:54:06: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:55:09: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:55:10: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:58:10: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:58:10: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 22:58:55: -------- Mapchange to de_dust --------
+L 03/24/2025 - 22:58:55: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:00:10: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:00:10: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:00:46: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:00:46: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:02:36: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:02:36: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:04:22: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:04:23: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:04:58: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:04:59: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:06:13: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:06:14: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:07:17: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:07:18: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:09:08: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:09:09: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:10:42: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:10:42: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:14:46: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:14:46: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:14:59: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:15:00: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:16:29: [plmenu.amxx] Cmd: "bernand33<8><STEAM_0:1:600388690><>" slay "[POD]Trust Noone (98)<84><BOT><>"
+L 03/24/2025 - 23:16:32: [plmenu.amxx] Cmd: "bernand33<8><STEAM_0:1:600388690><>" slay "[P0D]Botsie Collins (98)<87><BOT><>"
+L 03/24/2025 - 23:16:32: [plmenu.amxx] Cmd: "bernand33<8><STEAM_0:1:600388690><>" slay "[P0D]Robert_Redford (98)<88><BOT><>"
+L 03/24/2025 - 23:21:11: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:21:12: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:22:07: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:22:08: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:24:04: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:24:04: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:24:35: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:24:35: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:25:30: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:25:31: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:26:45: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:26:46: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:48:54: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:49:06: [admin.amxx] Login: "bernand33<4><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:50:47: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:50:48: [admin.amxx] Login: "bernand33<4><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/24/2025 - 23:55:08: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:55:55: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:56:37: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:57:37: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:58:14: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:59:09: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:59:40: -------- Mapchange to de_dust --------
+L 03/24/2025 - 23:59:43: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")

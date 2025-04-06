@@ -1,0 +1,25 @@
+L 04/02/2025 - 22:34:38: Start of error session.
+L 04/02/2025 - 22:34:38: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250402.log")
+L 04/02/2025 - 22:34:38: [ReAPI] RegisterHookChain: function (CBasePlayer_GiveAmmo) is not available, ReGameDLL required.
+L 04/02/2025 - 22:34:38: [AMXX] Run time error 10 (plugin "reapi_test.amxx") (native "RegisterHookChain") - debug not enabled!
+L 04/02/2025 - 22:34:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/02/2025 - 22:35:11: Start of error session.
+L 04/02/2025 - 22:35:11: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250402.log")
+L 04/02/2025 - 22:35:11: [ReAPI] RegisterHookChain: function (CBasePlayer_GiveAmmo) is not available, ReGameDLL required.
+L 04/02/2025 - 22:35:11: [AMXX] Run time error 10 (plugin "reapi_test.amxx") (native "RegisterHookChain") - debug not enabled!
+L 04/02/2025 - 22:35:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/02/2025 - 22:36:10: Start of error session.
+L 04/02/2025 - 22:36:10: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250402.log")
+L 04/02/2025 - 22:36:10: [ReAPI] RegisterHookChain: function (CBasePlayer_GiveAmmo) is not available, ReGameDLL required.
+L 04/02/2025 - 22:36:10: [AMXX] Run time error 10 (plugin "reapi_test.amxx") (native "RegisterHookChain") - debug not enabled!
+L 04/02/2025 - 22:36:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/02/2025 - 22:36:57: Start of error session.
+L 04/02/2025 - 22:36:57: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250402.log")
+L 04/02/2025 - 22:36:57: [ReAPI] RegisterHookChain: function (CBasePlayer_GiveAmmo) is not available, ReGameDLL required.
+L 04/02/2025 - 22:36:57: [AMXX] Run time error 10 (plugin "reapi_test.amxx") (native "RegisterHookChain") - debug not enabled!
+L 04/02/2025 - 22:36:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/02/2025 - 22:39:41: Start of error session.
+L 04/02/2025 - 22:39:41: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250402.log")
+L 04/02/2025 - 22:39:41: [ReAPI] RegisterHookChain: function (CBasePlayer_GiveAmmo) is not available, ReGameDLL required.
+L 04/02/2025 - 22:39:41: [AMXX] Run time error 10 (plugin "reapi_test.amxx") (native "RegisterHookChain") - debug not enabled!
+L 04/02/2025 - 22:39:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

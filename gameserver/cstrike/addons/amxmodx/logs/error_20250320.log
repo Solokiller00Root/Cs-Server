@@ -1,0 +1,56 @@
+L 03/20/2025 - 21:17:11: Start of error session.
+L 03/20/2025 - 21:17:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20250320.log")
+L 03/20/2025 - 21:17:11: Invalid CVAR pointer
+L 03/20/2025 - 21:17:11: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:12: Invalid CVAR pointer
+L 03/20/2025 - 21:17:12: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:12: Invalid CVAR pointer
+L 03/20/2025 - 21:17:12: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:12: Invalid CVAR pointer
+L 03/20/2025 - 21:17:12: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:12: Invalid CVAR pointer
+L 03/20/2025 - 21:17:12: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:12: Invalid CVAR pointer
+L 03/20/2025 - 21:17:12: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:13: Invalid CVAR pointer
+L 03/20/2025 - 21:17:13: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:14: Invalid CVAR pointer
+L 03/20/2025 - 21:17:14: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:14: Invalid CVAR pointer
+L 03/20/2025 - 21:17:14: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:15: Invalid CVAR pointer
+L 03/20/2025 - 21:17:15: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/20/2025 - 21:17:16: Invalid CVAR pointer
+L 03/20/2025 - 21:17:16: [AMXX] Run time error 10 (plugin "amx_hook.amxx") (native "get_pcvar_float") - debug not enabled!
+L 03/20/2025 - 21:17:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

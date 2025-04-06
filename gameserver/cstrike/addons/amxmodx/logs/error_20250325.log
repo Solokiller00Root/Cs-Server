@@ -1,0 +1,99 @@
+L 03/25/2025 - 00:18:11: Start of error session.
+L 03/25/2025 - 00:18:11: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 00:18:11: [AMXX] Run time error 4 (plugin "zp50_gamemodes.amxx") - debug not enabled!
+L 03/25/2025 - 00:18:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 00:19:16: Start of error session.
+L 03/25/2025 - 00:19:16: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 00:19:16: [AMXX] Run time error 4 (plugin "zp50_gamemodes.amxx") - debug not enabled!
+L 03/25/2025 - 00:19:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 00:20:04: [AMXX] Run time error 4 (plugin "zp50_gamemodes.amxx") - debug not enabled!
+L 03/25/2025 - 00:20:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 10:23:42: Start of error session.
+L 03/25/2025 - 10:23:42: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 10:23:42: [AMXX] Plugin file open error (plugin "zp50_item_test.amxx")
+L 03/25/2025 - 10:27:45: Start of error session.
+L 03/25/2025 - 10:27:45: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 10:27:45: [AMXX] Plugin file open error (plugin "zp50_item_test.amxx")
+L 03/25/2025 - 19:55:10: Start of error session.
+L 03/25/2025 - 19:55:10: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 19:55:10: String formatted incorrectly - parameter 6 (total 5)
+L 03/25/2025 - 19:55:10: [AMXX] Run time error 25 (plugin "zp50_hud_damage.amxx") - debug not enabled!
+L 03/25/2025 - 19:55:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 19:55:11: String formatted incorrectly - parameter 6 (total 5)
+L 03/25/2025 - 19:55:11: [AMXX] Run time error 25 (plugin "zp50_hud_damage.amxx") - debug not enabled!
+L 03/25/2025 - 19:55:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 19:55:12: String formatted incorrectly - parameter 6 (total 5)
+L 03/25/2025 - 19:55:12: [AMXX] Run time error 25 (plugin "zp50_hud_damage.amxx") - debug not enabled!
+L 03/25/2025 - 19:55:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 19:55:13: String formatted incorrectly - parameter 6 (total 5)
+L 03/25/2025 - 19:55:13: [AMXX] Run time error 25 (plugin "zp50_hud_damage.amxx") - debug not enabled!
+L 03/25/2025 - 19:55:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 19:55:13: String formatted incorrectly - parameter 6 (total 5)
+L 03/25/2025 - 19:55:13: [AMXX] Run time error 25 (plugin "zp50_hud_damage.amxx") - debug not enabled!
+L 03/25/2025 - 19:55:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 22:50:58: Start of error session.
+L 03/25/2025 - 22:50:58: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 22:50:58: Invalid CVAR pointer
+L 03/25/2025 - 22:50:58: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "get_pcvar_string") - debug not enabled!
+L 03/25/2025 - 22:50:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 22:51:47: Invalid CVAR pointer
+L 03/25/2025 - 22:51:47: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "get_pcvar_string") - debug not enabled!
+L 03/25/2025 - 22:51:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 22:51:47: Invalid CVAR pointer
+L 03/25/2025 - 22:51:47: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "get_pcvar_string") - debug not enabled!
+L 03/25/2025 - 22:51:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 22:53:59: Invalid CVAR pointer
+L 03/25/2025 - 22:53:59: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "get_pcvar_string") - debug not enabled!
+L 03/25/2025 - 22:53:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 22:53:59: Invalid CVAR pointer
+L 03/25/2025 - 22:53:59: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "get_pcvar_string") - debug not enabled!
+L 03/25/2025 - 22:53:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 22:57:15: Start of error session.
+L 03/25/2025 - 22:57:15: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 22:57:15: [CS] Invalid weapon id (119)
+L 03/25/2025 - 22:57:15: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "cs_reset_player_view_model") - debug not enabled!
+L 03/25/2025 - 22:57:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 23:02:02: Start of error session.
+L 03/25/2025 - 23:02:02: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 23:02:02: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:02:02: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "cs_reset_player_view_model") - debug not enabled!
+L 03/25/2025 - 23:02:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 23:03:00: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:03:00: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "cs_reset_player_view_model") - debug not enabled!
+L 03/25/2025 - 23:03:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 23:03:00: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:03:00: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "cs_reset_player_view_model") - debug not enabled!
+L 03/25/2025 - 23:03:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 23:03:19: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:03:19: [AMXX] Run time error 10 (plugin "zp50_class_survivor.amxx") (native "cs_reset_player_view_model") - debug not enabled!
+L 03/25/2025 - 23:03:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/25/2025 - 23:03:36: Start of error session.
+L 03/25/2025 - 23:03:36: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 23:03:36: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:03:36: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/25/2025 - 23:03:36: [AMXX] Run time error 10: native error (native "cs_reset_player_view_model")
+L 03/25/2025 - 23:03:36: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 263)
+L 03/25/2025 - 23:04:30: Start of error session.
+L 03/25/2025 - 23:04:30: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 23:04:30: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:04:30: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/25/2025 - 23:04:30: [AMXX] Run time error 10: native error (native "cs_reset_player_view_model")
+L 03/25/2025 - 23:04:30: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 263)
+L 03/25/2025 - 23:05:29: Start of error session.
+L 03/25/2025 - 23:05:29: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 23:05:29: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:05:29: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/25/2025 - 23:05:29: [AMXX] Run time error 10: native error (native "cs_reset_player_view_model")
+L 03/25/2025 - 23:05:29: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 263)
+L 03/25/2025 - 23:07:46: Start of error session.
+L 03/25/2025 - 23:07:46: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 23:07:46: [CS] Invalid weapon id (119)
+L 03/25/2025 - 23:07:46: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/25/2025 - 23:07:46: [AMXX] Run time error 10: native error (native "cs_reset_player_view_model")
+L 03/25/2025 - 23:07:46: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 262)
+L 03/25/2025 - 23:09:18: Start of error session.
+L 03/25/2025 - 23:09:18: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250325.log")
+L 03/25/2025 - 23:09:18: [CS] Invalid weapon id (109)
+L 03/25/2025 - 23:09:18: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/25/2025 - 23:09:18: [AMXX] Run time error 10: native error (native "cs_reset_player_view_model")
+L 03/25/2025 - 23:09:18: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 270)

@@ -1,0 +1,39 @@
+L 03/16/2025 - 21:44:12: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 03/16/2025 - 21:44:12: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 03/16/2025 - 21:44:13: -------- Mapchange to zm_ice_attack3 --------
+L 03/16/2025 - 21:44:13: [FAKEMETA] get/set_gamerules_* natives have been disabled because g_pGameRules address could not be found. 
+L 03/16/2025 - 21:44:18: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:44:19: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:45:17: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 03/16/2025 - 21:45:17: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 03/16/2025 - 21:45:18: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:45:23: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:45:24: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:49:56: [admincmd.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:49:56: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:49:57: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:49:57: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:50:07: [admincmd.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:50:07: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:50:07: [admin.amxx] Login: "bernand33<3><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:50:08: [admin.amxx] Login: "bernand33<3><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:50:58: [admincmd.amxx] Cmd: "bernand33<3><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:50:59: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:50:59: [admin.amxx] Login: "bernand33<4><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:00: [admin.amxx] Login: "bernand33<4><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:15: [admincmd.amxx] Cmd: "bernand33<4><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:51:15: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:51:15: [admin.amxx] Login: "bernand33<5><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:16: [admin.amxx] Login: "bernand33<5><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:28: [admincmd.amxx] Cmd: "bernand33<5><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:51:28: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:51:29: [admin.amxx] Login: "bernand33<6><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:29: [admin.amxx] Login: "bernand33<6><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:34: [admincmd.amxx] Cmd: "bernand33<6><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:51:34: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:51:34: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:51:35: [admin.amxx] Login: "bernand33<7><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:52:15: [admincmd.amxx] Cmd: "bernand33<7><STEAM_0:1:600388690><>" server console (cmdline "restart")
+L 03/16/2025 - 21:52:15: -------- Mapchange to kz_facilitydrop --------
+L 03/16/2025 - 21:52:15: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 03/16/2025 - 21:52:16: [admin.amxx] Login: "bernand33<8><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "loopback")

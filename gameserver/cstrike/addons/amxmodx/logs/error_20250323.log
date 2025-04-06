@@ -1,0 +1,71 @@
+L 03/23/2025 - 23:39:54: Start of error session.
+L 03/23/2025 - 23:39:54: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250323.log")
+L 03/23/2025 - 23:39:54: Cvars can only be bound to global variables
+L 03/23/2025 - 23:39:54: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:39:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:39:58: Cvars can only be bound to global variables
+L 03/23/2025 - 23:39:58: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:39:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:00: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:00: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:01: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:01: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:01: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:01: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:01: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:01: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:01: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:01: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:02: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:02: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:02: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:02: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:09: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:09: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/23/2025 - 23:40:10: Cvars can only be bound to global variables
+L 03/23/2025 - 23:40:10: [AMXX] Run time error 10 (plugin "zp50_human_ammo.amxx") (native "bind_pcvar_num") - debug not enabled!
+L 03/23/2025 - 23:40:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

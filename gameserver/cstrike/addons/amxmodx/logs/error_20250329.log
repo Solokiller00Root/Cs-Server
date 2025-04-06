@@ -1,0 +1,49 @@
+L 03/29/2025 - 21:43:42: Start of error session.
+L 03/29/2025 - 21:43:42: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250329.log")
+L 03/29/2025 - 21:43:42: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:42: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:56: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:56: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:56: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:56: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:56: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:56: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:56: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:56: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:56: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:56: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 21:43:57: [FAKEMETA] Invalid entity
+L 03/29/2025 - 21:43:57: [AMXX] Run time error 10 (plugin "zp50_hud_damage.amxx") (native "pev") - debug not enabled!
+L 03/29/2025 - 21:43:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/29/2025 - 22:56:19: Start of error session.
+L 03/29/2025 - 22:56:19: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250329.log")
+L 03/29/2025 - 22:56:19: Player 1 is not in game.
+L 03/29/2025 - 22:56:19: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 03/29/2025 - 22:56:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,18 @@
+L 03/22/2025 - 00:17:11: Start of error session.
+L 03/22/2025 - 00:17:11: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250322.log")
+L 03/22/2025 - 00:17:11: Player 1 is not in game.
+L 03/22/2025 - 00:17:11: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 03/22/2025 - 00:17:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/22/2025 - 00:36:03: Start of error session.
+L 03/22/2025 - 00:36:03: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250322.log")
+L 03/22/2025 - 00:36:03: Player 1 is not in game.
+L 03/22/2025 - 00:36:03: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 03/22/2025 - 00:36:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/22/2025 - 00:46:48: Start of error session.
+L 03/22/2025 - 00:46:48: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250322.log")
+L 03/22/2025 - 00:46:48: Player 1 is not in game.
+L 03/22/2025 - 00:46:48: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 03/22/2025 - 00:46:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/22/2025 - 00:48:53: Player 1 is not in game.
+L 03/22/2025 - 00:48:53: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 03/22/2025 - 00:48:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

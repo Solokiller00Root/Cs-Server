@@ -1,0 +1,28 @@
+L 03/17/2025 - 22:40:52: Start of error session.
+L 03/17/2025 - 22:40:52: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20250317.log")
+L 03/17/2025 - 22:40:52: [MySQL] Invalid database handle: 2
+L 03/17/2025 - 22:40:52: [AMXX] Run time error 10 (plugin "test.amxx") (native "SQL_PrepareQuery") - debug not enabled!
+L 03/17/2025 - 22:40:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/17/2025 - 22:43:33: Start of error session.
+L 03/17/2025 - 22:43:33: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20250317.log")
+L 03/17/2025 - 22:43:33: [MySQL] Invalid database handle: 2
+L 03/17/2025 - 22:43:33: [AMXX] Run time error 10 (plugin "test.amxx") (native "SQL_PrepareQuery") - debug not enabled!
+L 03/17/2025 - 22:43:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/17/2025 - 22:44:03: Start of error session.
+L 03/17/2025 - 22:44:03: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20250317.log")
+L 03/17/2025 - 22:44:03: [MySQL] Invalid database handle: 2
+L 03/17/2025 - 22:44:03: [AMXX] Run time error 10 (plugin "test.amxx") (native "SQL_PrepareQuery") - debug not enabled!
+L 03/17/2025 - 22:44:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/17/2025 - 22:44:09: Start of error session.
+L 03/17/2025 - 22:44:09: Info (map "de_cbble") (file "addons/amxmodx/logs/error_20250317.log")
+L 03/17/2025 - 22:44:09: [MySQL] Invalid database handle: 2
+L 03/17/2025 - 22:44:09: [AMXX] Run time error 10 (plugin "test.amxx") (native "SQL_PrepareQuery") - debug not enabled!
+L 03/17/2025 - 22:44:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/17/2025 - 23:44:37: Start of error session.
+L 03/17/2025 - 23:44:37: Info (map "cs_italy") (file "addons/amxmodx/logs/error_20250317.log")
+L 03/17/2025 - 23:44:37: [MySQL] No result set in this query!
+L 03/17/2025 - 23:44:37: [AMXX] Run time error 10 (plugin "test.amxx") (native "SQL_ReadResult") - debug not enabled!
+L 03/17/2025 - 23:44:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/17/2025 - 23:44:52: [MySQL] No result set in this query!
+L 03/17/2025 - 23:44:52: [AMXX] Run time error 10 (plugin "test.amxx") (native "SQL_ReadResult") - debug not enabled!
+L 03/17/2025 - 23:44:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

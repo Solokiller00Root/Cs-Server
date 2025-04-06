@@ -1,0 +1,64 @@
+L 03/22/2025 - 00:01:12: [plmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" transfer "bernand33<1><STEAM_0:1:600388690><>" (team "CT")
+L 03/22/2025 - 00:01:26: [admincmd.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" ask for players list
+L 03/22/2025 - 00:01:42: [plmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" transfer "bernand33<1><STEAM_0:1:600388690><>" (team "CT")
+L 03/22/2025 - 00:06:21: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:06:22: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:06:48: [plmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" transfer "bernand33<1><STEAM_0:1:600388690><>" (team "CT")
+L 03/22/2025 - 00:14:18: [admincmd.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" changelevel "de_dust2"
+L 03/22/2025 - 00:14:20: -------- Mapchange to de_dust2 --------
+L 03/22/2025 - 00:14:21: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:15:35: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:15:42: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:17:01: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_starting_ammo_packs") (value "100")
+L 03/22/2025 - 00:17:11: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:17:11: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:34:25: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_radius") (value "1000")
+L 03/22/2025 - 00:34:51: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_radius") (value "35")
+L 03/22/2025 - 00:34:57: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_duration") (value "2000")
+L 03/22/2025 - 00:34:59: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "20")
+L 03/22/2025 - 00:35:03: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_radius") (value "black")
+L 03/22/2025 - 00:35:07: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "yellow")
+L 03/22/2025 - 00:35:10: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "10")
+L 03/22/2025 - 00:35:15: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_radius") (value "30")
+L 03/22/2025 - 00:35:18: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "10")
+L 03/22/2025 - 00:35:20: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "yellow")
+L 03/22/2025 - 00:35:25: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "255")
+L 03/22/2025 - 00:35:28: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "255 255 255")
+L 03/22/2025 - 00:35:53: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_disable_money") (value "1")
+L 03/22/2025 - 00:35:57: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_disable_money") (value "0")
+L 03/22/2025 - 00:36:03: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:36:28: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "9 9 9")
+L 03/22/2025 - 00:36:33: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "0 0 0 ")
+L 03/22/2025 - 00:36:37: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "000")
+L 03/22/2025 - 00:36:41: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "0,0,0")
+L 03/22/2025 - 00:36:55: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "0,0,255")
+L 03/22/2025 - 00:36:59: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_flare_color") (value "0 0 255")
+L 03/22/2025 - 00:37:19: -------- Mapchange to cs_havana --------
+L 03/22/2025 - 00:37:20: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:37:48: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_grenade_frost_duration") (value "10")
+L 03/22/2025 - 00:43:16: -------- Mapchange to cs_havana --------
+L 03/22/2025 - 00:43:17: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:43:44: -------- Mapchange to cs_havana --------
+L 03/22/2025 - 00:43:45: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:45:09: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:45:12: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:46:44: [pluginmenu.amxx] Cmd: "bernand33<1><STEAM_0:1:600388690><>" set cvar (name "zp_admin_models_human_knife") (value "0")
+L 03/22/2025 - 00:46:48: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:47:14: [pluginmenu.amxx] Cmd: "bernand33<2><STEAM_0:1:600388690><>" set cvar (name "zp_admin_models_human_knife") (value "1")
+L 03/22/2025 - 00:48:53: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:48:54: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:54:04: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:54:04: [admin.amxx] Login: "bernand33<2><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:54:44: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:55:25: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:55:45: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:56:06: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:56:12: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:57:41: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:57:41: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:58:49: -------- Mapchange to de_dust --------
+L 03/22/2025 - 00:58:49: [admin.amxx] Login: "bernand33<1><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")
+L 03/22/2025 - 00:59:48: -------- Mapchange to de_dust --------
+L 03/22/2025 - 01:06:51: -------- Mapchange to de_dust --------
+L 03/22/2025 - 01:08:24: -------- Mapchange to de_dust --------
+L 03/22/2025 - 01:08:25: [admin.amxx] Login: "bernand33<3><STEAM_0:1:600388690><>" became an admin (account "STEAM_0:1:600388690") (access "abcdefghijklmnopqrstuv") (address "127.0.0.1")

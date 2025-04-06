@@ -1,0 +1,54 @@
+"AppState"
+{
+	"appid"		"90"
+	"Universe"		"1"
+	"LauncherPath"		"C:\\Users\\giannis\\Desktop\\SteamCmd\\steamcmd.exe"
+	"name"		"Half-Life Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Half-Life"
+	"LastUpdated"		"1742412405"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"59515333"
+	"StagingSize"		"0"
+	"buildid"		"5433925"
+	"LastOwner"		"76561199172604053"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"0"
+	"BytesDownloaded"		"0"
+	"BytesToStage"		"0"
+	"BytesStaged"		"0"
+	"TargetBuildID"		"5433925"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"FullValidateAfterNextUpdate"		"1"
+	"InstalledDepots"
+	{
+		"5"
+		{
+			"manifest"		"1292976893473204445"
+			"size"		"12788205"
+		}
+		"1004"
+		{
+			"manifest"		"7747775778018907449"
+			"size"		"46727128"
+		}
+	}
+	"SharedDepots"
+	{
+		"1"		"70"
+		"11"		"10"
+		"71"		"70"
+	}
+	"UserConfig"
+	{
+		"mod"		"cstrike"
+		"BetaKey"		"steam_legacy"
+	}
+	"MountedConfig"
+	{
+		"mod"		"cstrike"
+		"BetaKey"		"steam_legacy"
+	}
+}

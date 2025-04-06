@@ -1,0 +1,1033 @@
+L 03/26/2025 - 19:42:10: Start of error session.
+L 03/26/2025 - 19:42:10: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 19:42:10: [CS] Invalid weapon id (0)
+L 03/26/2025 - 19:42:10: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/26/2025 - 19:42:10: [AMXX] Run time error 10: native error (native "cs_reset_player_view_model")
+L 03/26/2025 - 19:42:10: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_spawn_post (line 200)
+L 03/26/2025 - 19:42:10: [CS] Invalid weapon id (0)
+L 03/26/2025 - 19:42:10: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/26/2025 - 19:42:10: [AMXX] Run time error 10: native error (native "cs_set_player_view_model")
+L 03/26/2025 - 19:42:10: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 257)
+L 03/26/2025 - 19:42:21: [CS] Invalid weapon id (0)
+L 03/26/2025 - 19:42:21: [AMXX] Displaying debug trace (plugin "zp50_class_survivor.amxx", version "5.0.5")
+L 03/26/2025 - 19:42:21: [AMXX] Run time error 10: native error (native "cs_set_player_view_model")
+L 03/26/2025 - 19:42:21: [AMXX]    [0] zp50_class_survivor.sma::zp_fw_core_cure_post (line 257)
+L 03/26/2025 - 21:51:51: Start of error session.
+L 03/26/2025 - 21:51:51: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 21:51:51: Function "get_user_place" was not found
+L 03/26/2025 - 21:51:51: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 21:51:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 21:52:56: Start of error session.
+L 03/26/2025 - 21:52:56: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 21:52:56: Function "get_user_place" was not found
+L 03/26/2025 - 21:52:56: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 21:52:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 21:56:03: Start of error session.
+L 03/26/2025 - 21:56:03: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 21:56:03: Function "get_user_place" was not found
+L 03/26/2025 - 21:56:03: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 21:56:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 21:57:10: Start of error session.
+L 03/26/2025 - 21:57:10: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 21:57:10: Function "get_user_place" was not found
+L 03/26/2025 - 21:57:10: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 21:57:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:04:44: Start of error session.
+L 03/26/2025 - 23:04:44: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:04:44: Player 1 is not in game.
+L 03/26/2025 - 23:04:44: [AMXX] Run time error 10 (plugin "pluginmenu.amxx") (native "menu_display") - debug not enabled!
+L 03/26/2025 - 23:04:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:08:23: Start of error session.
+L 03/26/2025 - 23:08:23: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:08:23: Could not find function "update_ap"
+L 03/26/2025 - 23:08:23: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:08:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:08:23: Invalid CVAR pointer
+L 03/26/2025 - 23:08:23: [AMXX] Run time error 10 (plugin "zp50_hud_player.amxx") (native "get_pcvar_num") - debug not enabled!
+L 03/26/2025 - 23:08:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:10:13: Start of error session.
+L 03/26/2025 - 23:10:13: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:10:13: Could not find function "update_ap"
+L 03/26/2025 - 23:10:13: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:10:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:10:13: Invalid CVAR pointer
+L 03/26/2025 - 23:10:13: [AMXX] Run time error 10 (plugin "zp50_hud_player.amxx") (native "get_pcvar_num") - debug not enabled!
+L 03/26/2025 - 23:10:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:12:08: Start of error session.
+L 03/26/2025 - 23:12:08: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:12:08: Could not find function "update_ap"
+L 03/26/2025 - 23:12:08: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:12:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:12:08: Invalid CVAR pointer
+L 03/26/2025 - 23:12:08: [AMXX] Run time error 10 (plugin "zp50_hud_player.amxx") (native "get_pcvar_num") - debug not enabled!
+L 03/26/2025 - 23:12:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:13:51: Start of error session.
+L 03/26/2025 - 23:13:51: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:13:51: Function "update_cvars" was not found
+L 03/26/2025 - 23:13:51: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:13:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:25:55: Start of error session.
+L 03/26/2025 - 23:25:55: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:25:55: Could not find function "update_ap"
+L 03/26/2025 - 23:25:55: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:25:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:26:04: Start of error session.
+L 03/26/2025 - 23:26:04: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:26:04: Could not find function "update_ap"
+L 03/26/2025 - 23:26:04: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:26:28: Start of error session.
+L 03/26/2025 - 23:26:28: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:26:28: Function "update_cvars" was not found
+L 03/26/2025 - 23:26:28: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:26:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:26:52: Start of error session.
+L 03/26/2025 - 23:26:52: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:26:52: [HAMSANDWICH] Function Player_Spawn not found.
+L 03/26/2025 - 23:26:52: [AMXX] Run time error 10 (plugin "zp50_hud_player.amxx") (native "RegisterHam") - debug not enabled!
+L 03/26/2025 - 23:26:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:24: Start of error session.
+L 03/26/2025 - 23:45:24: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:45:24: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:24: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:25: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:25: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:25: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:25: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:26: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:26: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:26: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:26: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:27: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:27: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:27: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:27: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:28: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:28: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:28: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:28: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:29: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:29: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:29: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:29: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:30: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:30: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:30: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:30: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:31: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:31: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:31: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:31: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:32: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:32: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:32: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:32: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:33: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:33: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:33: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:33: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:34: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:34: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:34: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:34: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:35: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:35: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:35: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:35: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:36: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:36: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:36: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:36: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:37: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:37: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:37: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:37: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:38: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:38: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:38: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:38: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:39: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:39: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:39: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:39: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:40: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:40: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:40: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:40: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:41: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:41: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:41: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:41: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:42: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:42: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:42: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:42: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:43: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:43: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:43: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:43: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:44: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:44: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:44: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:44: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:45: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:45: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:45: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:45: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:46: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:46: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:46: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:46: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:47: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:47: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:47: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:47: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:48: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:48: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:48: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:48: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:49: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:49: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:49: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:49: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:50: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:50: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:50: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:50: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:51: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:51: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:51: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:51: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:52: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:52: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:52: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:52: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:53: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:53: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:53: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:53: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:54: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:54: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:54: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:54: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:55: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:55: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:55: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:55: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:56: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:56: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:56: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:56: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:57: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:57: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:57: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:57: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:58: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:58: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:58: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:58: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:59: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:59: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:45:59: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:45:59: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:45:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:00: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:00: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:00: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:00: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:01: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:01: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:01: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:01: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:02: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:02: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:02: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:02: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:03: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:03: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:03: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:03: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:04: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:04: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:04: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:04: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:05: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:05: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:05: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:05: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:06: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:06: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:06: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:06: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:07: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:07: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:07: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:07: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:08: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:08: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:08: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:08: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:09: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:09: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:09: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:09: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:10: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:10: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:10: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:10: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:11: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:11: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:11: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:11: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:12: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:12: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:12: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:12: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:13: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:13: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:13: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:13: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:14: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:14: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:14: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:14: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:15: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:15: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:15: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:15: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:16: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:16: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:16: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:16: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:17: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:17: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:17: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:17: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:18: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:18: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:18: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:18: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:19: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:19: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:19: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:19: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:20: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:20: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:20: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:20: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:21: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:21: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:21: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:21: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:22: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:22: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:22: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:22: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:23: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:23: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:23: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:23: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:24: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:24: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:24: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:24: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:25: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:25: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:25: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:25: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:26: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:26: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:26: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:26: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:27: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:27: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:27: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:27: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:28: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:28: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:28: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:28: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:29: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:29: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:29: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:29: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:30: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:30: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:30: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:30: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:31: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:31: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:31: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:31: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:32: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:32: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:32: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:32: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:33: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:33: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:33: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:33: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:34: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:34: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:34: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:34: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:35: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:35: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:35: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:35: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:36: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:36: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:36: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:36: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:37: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:37: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:37: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:37: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:38: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:38: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:38: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:38: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:39: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:39: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:39: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:39: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:40: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:40: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:40: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:40: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:41: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:41: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:41: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:41: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:42: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:42: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:42: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:42: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:43: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:43: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:43: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:43: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:44: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:44: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:44: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:44: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:45: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:45: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:45: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:45: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:46: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:46: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:46: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:46: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:47: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:47: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:47: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:47: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:48: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:48: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:48: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:48: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:49: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:49: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:49: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:49: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:50: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:50: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:50: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:50: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:51: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:51: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:51: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:51: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:52: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:52: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:52: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:52: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:53: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:53: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:53: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:53: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:54: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:54: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:54: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:54: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:55: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:55: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:55: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:55: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:56: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:56: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:56: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:56: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:57: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:57: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:57: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:57: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:58: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:58: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:58: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:58: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:59: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:59: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:46:59: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:46:59: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:46:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:00: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:00: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:00: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:00: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:01: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:01: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:01: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:01: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:01: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:02: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:02: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:02: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:02: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:03: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:03: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:03: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:03: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:04: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:04: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:04: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:04: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:05: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:05: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:05: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:05: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:06: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:06: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:06: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:06: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:07: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:07: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:07: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:07: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:08: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:08: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:08: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:08: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:09: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:09: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:09: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:09: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:10: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:10: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:10: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:10: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:11: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:11: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:11: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:11: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:12: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:12: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:12: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:12: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:13: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:13: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:13: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:13: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:14: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:14: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:14: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:14: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:15: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:15: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:15: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:15: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:16: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:16: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:16: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:16: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:16: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:17: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:17: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:17: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:17: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:18: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:18: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:18: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:18: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:18: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:19: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:19: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:19: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:19: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:20: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:20: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:20: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:20: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:21: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:21: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:21: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:21: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:22: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:22: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:22: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:22: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:23: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:23: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:23: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:23: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:24: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:24: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:24: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:24: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:25: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:25: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:25: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:25: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:26: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:26: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:26: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:26: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:27: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:27: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:27: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:27: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:28: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:28: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:28: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:28: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:28: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:29: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:29: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:29: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:29: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:30: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:30: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:30: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:30: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:31: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:31: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:31: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:31: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:31: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:32: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:32: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:32: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:32: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:33: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:33: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:33: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:33: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:34: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:34: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:34: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:34: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:35: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:35: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:35: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:35: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:36: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:36: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:36: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:36: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:37: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:37: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:37: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:37: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:38: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:38: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:38: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:38: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:39: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:39: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:39: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:39: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:39: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:40: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:40: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:40: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:40: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:41: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:41: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:41: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:41: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:42: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:42: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:42: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:42: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:43: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:43: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:43: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:43: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:44: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:44: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:44: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:44: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:45: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:45: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:45: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:45: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:46: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:46: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:46: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:46: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:47: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:47: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:47: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:47: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:48: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:48: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:48: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:48: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:48: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:49: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:49: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:49: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:49: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:49: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:50: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:50: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:50: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:50: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:51: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:51: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:51: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:51: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:52: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:52: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:52: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:52: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:53: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:53: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:53: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:53: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:53: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:54: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:54: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:54: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:54: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:54: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:55: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:55: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:55: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:55: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:56: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:56: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:56: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:56: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:57: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:57: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:57: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:57: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:58: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:58: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:58: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:58: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:58: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:59: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:59: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:47:59: String formatted incorrectly - parameter 5 (total 4)
+L 03/26/2025 - 23:47:59: [AMXX] Run time error 25 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:47:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:48:00: Start of error session.
+L 03/26/2025 - 23:48:00: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:48:00: Could not find function "update_target"
+L 03/26/2025 - 23:48:00: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:48:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/26/2025 - 23:48:32: Start of error session.
+L 03/26/2025 - 23:48:32: Info (map "de_dust") (file "addons/amxmodx/logs/error_20250326.log")
+L 03/26/2025 - 23:48:32: Could not find function "update_hp"
+L 03/26/2025 - 23:48:32: [AMXX] Run time error 19 (plugin "zp50_hud_player.amxx") - debug not enabled!
+L 03/26/2025 - 23:48:32: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
